@@ -2,8 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-Functions-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 ## 📌 Overview
 This project demonstrates a **cloud-based machine learning inference system** using **Google Cloud Platform (GCP)**.  
