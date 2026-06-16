@@ -36,7 +36,7 @@ The architecture ensures that:
 
 ## 📂 Project Structure
 
-.
+
 ├── crop_model.pkl       # Trained Random Forest model (stored in GCS in production)
 
 ├── input.json           # Sample JSON input for predictions
