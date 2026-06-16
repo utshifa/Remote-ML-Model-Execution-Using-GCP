@@ -38,8 +38,11 @@ The architecture ensures that:
 
 .
 ├── crop_model.pkl       # Trained Random Forest model (stored in GCS in production)
+
 ├── input.json           # Sample JSON input for predictions
+
 ├── main.py              # Cloud Function entry point
+
 └── requirements.txt     # Python dependencies
 
 
